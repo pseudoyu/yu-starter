@@ -1,0 +1,104 @@
+{
+  "apps" : [
+    {
+      "name": "Service",
+      "items": [
+        {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
+        {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
+        {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
+        {"name":"ActivityWatch","url":"http://localhost:5600","icon":"timer-edit-outline"},
+        {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
+        {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
+        {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
+        {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
+        {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"}
+      ]
+    },
+    {
+      "name": "VPS",
+      "items": [
+        {"name":"UptimeRobot","url":"https://stats.uptimerobot.com/lPN5YU1wM0","icon":"robot-dead-outline"},
+        {"name":"BandwagonHost","url":"https://kiwivm.64clouds.com/?mode=login","icon":"server"}
+
+      ]
+    },
+    {
+      "name": "Network",
+      "items": [
+        {"name":"Surge","url":"http://localhost:6677","icon":"weather-cloudy"},
+        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
+
+      ]
+    }
+  ],
+  "bookmarks" : [
+    {
+      "category": "Infra",
+      "links": [
+        {
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2"
+        },
+        {
+          "name": "Cloudflare Pages",
+          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2/pages"
+        },
+        {
+          "name": "Railway",
+          "url": "https://railway.app/account/usage"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/dashboard"
+        },
+        {
+          "name": "Supabase",
+          "url": "https://app.supabase.com"
+        }
+      ]
+    },
+    {
+      "category": "Surfing",
+      "links": [
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Bilibili",
+          "url": "https://www.bilibili.com"
+        }
+      ]
+    },
+    {
+      "category": "Code",
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/pseudoyu"
+        }
+      ]
+    },
+    {
+      "category": "Tool",
+      "links": [
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com"
+        },
+        {
+          "name": "Pika",
+          "url": "https://pika.style/open-graph-generator"
+        },
+        {
+          "name": "TinyWow",
+          "url": "https://tinywow.com"
+        }
+      ]
+    }
+  ]
+}
