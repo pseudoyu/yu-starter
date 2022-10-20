@@ -6,9 +6,9 @@
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
         {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
-        {"name":"ActivityWatch","url":"http://localhost:5600","icon":"timer-edit-outline"},
-        {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
         {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
+        {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
+        {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
         {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
         {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
         {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"}
