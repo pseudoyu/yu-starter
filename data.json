@@ -28,8 +28,8 @@
       "name": "Network",
       "items": [
         {"name":"Frp Dashboard","url":"http://frps.pseudoyu.com:7002","icon":"lan"},
-        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"},
-        {"name":"Home Surge","url":"http://frps.pseudoyu.com:6677","icon":"weather-cloudy"}
+        {"name":"Surge Dashboard","url":"http://frps.pseudoyu.com:6677","icon":"weather-cloudy"},
+        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
       ]
     }
   ],
