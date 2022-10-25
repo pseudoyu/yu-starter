@@ -18,19 +18,19 @@
       ]
     },
     {
-      "name": "VPS",
-      "items": [
-        {"name":"UptimeRobot","url":"https://stats.uptimerobot.com/lPN5YU1wM0","icon":"robot-dead-outline"},
-        {"name":"BandwagonHost","url":"https://kiwivm.64clouds.com/?mode=login","icon":"server"}
-
-      ]
-    },
-    {
       "name": "Network",
       "items": [
         {"name":"Frp Dashboard","url":"http://frps.pseudoyu.com:7002","icon":"lan"},
         {"name":"Surge Dashboard","url":"http://frps.pseudoyu.com:6677","icon":"weather-cloudy"},
         {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
+      ]
+    },
+    {
+      "name": "VPS",
+      "items": [
+        {"name":"UptimeRobot","url":"https://stats.uptimerobot.com/lPN5YU1wM0","icon":"robot-dead-outline"},
+        {"name":"BandwagonHost","url":"https://kiwivm.64clouds.com/?mode=login","icon":"server"}
+
       ]
     }
   ],
