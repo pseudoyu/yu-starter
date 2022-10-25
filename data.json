@@ -5,7 +5,8 @@
       "items": [
         {"name":"Yu Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
         {"name":"Yu Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
-        {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
+        {"name":"Yu Twitter","url":"https://pseudoyu.grafana.net/goto/Fn1ksON4k?orgId=1","icon":"twitter"},
+        {"name":"Yu Running","url":"https://running.pseudoyu.com","icon":"run-fast"},
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
         {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
         {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
@@ -42,10 +43,6 @@
           "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2"
         },
         {
-          "name": "Cloudflare Pages",
-          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2/pages"
-        },
-        {
           "name": "Railway",
           "url": "https://railway.app/account/usage"
         },
@@ -56,6 +53,14 @@
         {
           "name": "Supabase",
           "url": "https://app.supabase.com"
+        },
+        {
+          "name": "TiDB Cloud",
+          "url": "https://tidbcloud.com"
+        },
+        {
+          "name": "Grafana",
+          "url": "https://grafana.com/orgs/pseudoyu"
         }
       ]
     },
@@ -82,6 +87,10 @@
         {
           "name": "GitHub",
           "url": "https://github.com/pseudoyu"
+        },
+        {
+          "name": "Cron-job",
+          "url": "https://console.cron-job.org/dashboard"
         }
       ]
     },
