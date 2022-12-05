@@ -91,6 +91,10 @@
         {
           "name": "Cron-job",
           "url": "https://console.cron-job.org/dashboard"
+        },
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com/chat"
         }
       ]
     },
