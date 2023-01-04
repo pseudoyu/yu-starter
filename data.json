@@ -26,7 +26,7 @@
     {
       "name": "VPS",
       "items": [
-        {"name":"UptimeRobot","url":"https://stats.uptimerobot.com/lPN5YU1wM0","icon":"robot-dead-outline"},
+        {"name":"Yu-Uptime","url":"https://uptime.pseudoyu.com/status/services","icon":"robot-dead-outline"},
         {"name":"BandwagonHost","url":"https://kiwivm.64clouds.com/?mode=login","icon":"server"},
         {"name":"SpartanHost","url":"https://billing.spartanhost.net/clientarea.php","icon":"server-security"}
 
