@@ -20,7 +20,8 @@
         {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
         {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"},
         {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
-        {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"}
+        {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
+        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
       ]
     },
     {
@@ -29,7 +30,6 @@
         {"name":"Services Uptime","url":"https://uptime.pseudoyu.com/status/services","icon":"robot-dead-outline"},
         {"name":"Nginx Proxy Manager","url":"https://npm.pseudoyu.com/nginx/proxy","icon":"arrow-decision-outline"},
         {"name":"Frp Dashboard","url":"https://frps.pseudoyu.com","icon":"lan"},
-        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"},
         {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"}
       ]
     },
