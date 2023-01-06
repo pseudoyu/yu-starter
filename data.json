@@ -1,35 +1,43 @@
 {
   "apps" : [
     {
-      "name": "Service",
+      "name": "Self Hosted",
       "items": [
-        {"name":"Yu Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
-        {"name":"Yu Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
-        {"name":"Yu Running","url":"https://running.pseudoyu.com","icon":"run-fast"},
-        {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
+        {"name":"Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
+        {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
+        {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
         {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
-        {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
+        {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
-        {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
-        {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
-        {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
-        {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"}
+        {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
+        {"name":"Bilibili Recorder","url":"https://momo.pseudoyu.com","icon":"video-vintage"}
       ]
     },
     {
-      "name": "Network",
+      "name": "Third Party",
       "items": [
+        {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
+        {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
+        {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"},
+        {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
+        {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"}
+      ]
+    },
+    {
+      "name": "Proxy And Monitor",
+      "items": [
+        {"name":"Services Uptime","url":"https://uptime.pseudoyu.com/status/services","icon":"robot-dead-outline"},
+        {"name":"Nginx Proxy Manager","url":"https://npm.pseudoyu.com/nginx/proxy","icon":"arrow-decision-outline"},
         {"name":"Frp Dashboard","url":"https://frps.pseudoyu.com","icon":"lan"},
-        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
+        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"},
+        {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"}
       ]
     },
     {
       "name": "VPS",
       "items": [
-        {"name":"Yu-Uptime","url":"https://uptime.pseudoyu.com/status/services","icon":"robot-dead-outline"},
         {"name":"BandwagonHost","url":"https://kiwivm.64clouds.com/?mode=login","icon":"server"},
         {"name":"SpartanHost","url":"https://billing.spartanhost.net/clientarea.php","icon":"server-security"}
-
 
       ]
     }
@@ -47,20 +55,20 @@
           "url": "https://railway.app/account/usage"
         },
         {
-          "name": "Vercel",
-          "url": "https://vercel.com/dashboard"
-        },
-        {
           "name": "Supabase",
           "url": "https://app.supabase.com"
         },
         {
-          "name": "TiDB Cloud",
-          "url": "https://tidbcloud.com"
+          "name": "Vercel",
+          "url": "https://vercel.com/dashboard"
         },
         {
-          "name": "Grafana",
-          "url": "https://grafana.com/orgs/pseudoyu"
+          "name": "Netlify",
+          "url": "https://app.netlify.com/teams/pseudoyu/overview"
+        },
+        {
+          "name": "Postmark",
+          "url": "https://postmarkapp.com"
         }
       ]
     },
@@ -72,12 +80,16 @@
           "url": "https://twitter.com"
         },
         {
+          "name": "Bilibili",
+          "url": "https://www.bilibili.com"
+        },
+        {
           "name": "YouTube",
           "url": "https://www.youtube.com"
         },
         {
-          "name": "Bilibili",
-          "url": "https://www.bilibili.com"
+          "name": "Netlify",
+          "url": "https://www.netflix.com/hk/"
         }
       ]
     },
@@ -89,12 +101,12 @@
           "url": "https://github.com/pseudoyu"
         },
         {
-          "name": "Cron-job",
-          "url": "https://console.cron-job.org/dashboard"
-        },
-        {
           "name": "ChatGPT",
           "url": "https://chat.openai.com/chat"
+        },
+        {
+          "name": "Composerize",
+          "url": "https://www.composerize.com/"
         }
       ]
     },
@@ -106,16 +118,12 @@
           "url": "https://excalidraw.com"
         },
         {
-          "name": "Pika",
-          "url": "https://pika.style/open-graph-generator"
-        },
-        {
           "name": "TinyWow",
           "url": "https://tinywow.com"
         },
-        {
-          "name": "Bookmark.style",
-          "url": "https://bookmark.style"
+                {
+          "name": "ToolBox",
+          "url": "https://tool.lu/c/developer"
         }
       ]
     }
