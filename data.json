@@ -8,6 +8,7 @@
         {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
         {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
+        {"name":"Miniflux","url":"https://miniflux.pseudoyu.com/unread","icon":"book-arrow-down-outline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
         {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
         {"name":"Bilibili Recorder","url":"https://momo.pseudoyu.com","icon":"video-vintage"}
