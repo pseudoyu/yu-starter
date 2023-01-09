@@ -5,7 +5,6 @@
       "items": [
         {"name":"Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
         {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
-        {"name":"XLog","url":"https://xlog.pseudoyu.com","icon":"post"},
         {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
         {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
@@ -18,6 +17,10 @@
     {
       "name": "Third Party",
       "items": [
+        {"name":"XLog","url":"https://xlog.pseudoyu.com","icon":"post"},
+        {"name":"XSync","url":"https://xsync.app/platforms","icon":"cloud-sync-outline"},
+        {"name":"XChar","url":"https://xchar.app/pseudoyu","icon":"account-details-outline"},
+        {"name":"XFeed","url":"https://crossbell.io/feed","icon":"comment-quote-outline"},
         {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
         {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
         {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"},
@@ -107,8 +110,8 @@
           "url": "https://chat.openai.com/chat"
         },
         {
-          "name": "Composerize",
-          "url": "https://www.composerize.com/"
+          "name": "Crossbell",
+          "url": "https://crossbell.io/"
         }
       ]
     },
@@ -126,6 +129,10 @@
                 {
           "name": "ToolBox",
           "url": "https://tool.lu/c/developer"
+        },
+        {
+          "name": "Composerize",
+          "url": "https://www.composerize.com/"
         }
       ]
     }
