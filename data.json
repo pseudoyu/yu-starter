@@ -5,6 +5,7 @@
       "items": [
         {"name":"Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
         {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
+        {"name":"XLog","url":"https://xlog.pseudoyu.com","icon":"post"},
         {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
         {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
