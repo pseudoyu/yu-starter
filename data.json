@@ -11,6 +11,7 @@
         {"name":"Miniflux","url":"https://miniflux.pseudoyu.com/unread","icon":"book-arrow-down-outline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
         {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
+        {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"},
         {"name":"Bilibili Recorder","url":"https://momo.pseudoyu.com","icon":"video-vintage"}
       ]
     },
@@ -33,9 +34,9 @@
       "name": "Proxy And Monitor",
       "items": [
         {"name":"Services Uptime","url":"https://uptime.pseudoyu.com/status/services","icon":"robot-dead-outline"},
+        {"name":"Server Status","url":"https://server.pseudoyu.com","icon":"server-network"},
         {"name":"Nginx Proxy Manager","url":"https://npm.pseudoyu.com/nginx/proxy","icon":"arrow-decision-outline"},
-        {"name":"Frp Dashboard","url":"https://frps.pseudoyu.com","icon":"lan"},
-        {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"}
+        {"name":"Frp Dashboard","url":"https://frps.pseudoyu.com","icon":"lan"}
       ]
     },
     {
