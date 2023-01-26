@@ -10,7 +10,7 @@
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
         {"name":"Miniflux","url":"https://miniflux.pseudoyu.com/unread","icon":"book-arrow-down-outline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
-        {"name":"matomo","url":"https://matomo.pseudoyu.com","icon":"elephant"},
+        {"name":"matomo","url":"https://matomo.pseudoyu.com","icon":"google-analytics"},
         {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
         {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"},
         {"name":"Bilibili Recorder","url":"https://momo.pseudoyu.com","icon":"video-vintage"}
