@@ -44,7 +44,8 @@
       "name": "VPS",
       "items": [
         {"name":"BandwagonHost","url":"https://bandwagonhost.com/services","icon":"server"},
-        {"name":"SpartanHost","url":"https://billing.spartanhost.net/clientarea.php","icon":"server-security"}
+        {"name":"SpartanHost","url":"https://billing.spartanhost.net/clientarea.php","icon":"server-security"},
+        {"name":"V.PS","url":"https://vps.hosting/clientarea/","icon":"server-network"}
 
       ]
     }
