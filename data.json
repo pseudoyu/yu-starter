@@ -19,10 +19,10 @@
     {
       "name": "Third Party",
       "items": [
-        {"name":"XLog","url":"https://xlog.pseudoyu.com","icon":"post"},
-        {"name":"XSync","url":"https://xsync.app/platforms","icon":"cloud-sync-outline"},
-        {"name":"XChar","url":"https://xchar.app/pseudoyu","icon":"account-details-outline"},
-        {"name":"XFeed","url":"https://crossbell.io/feed","icon":"comment-quote-outline"},
+        {"name":"xLog","url":"https://xlog.pseudoyu.com","icon":"post"},
+        {"name":"xSync","url":"https://xsync.app/platforms","icon":"cloud-sync-outline"},
+        {"name":"xChar","url":"https://xchar.app/pseudoyu","icon":"account-details-outline"},
+        {"name":"xFeed","url":"https://crossbell.io/feed","icon":"comment-quote-outline"},
         {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
         {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
         {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"},
