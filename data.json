@@ -11,8 +11,7 @@
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
         {"name":"matomo","url":"https://matomo.pseudoyu.com","icon":"google-analytics"},
         {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
-        {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"},
-        {"name":"Bilibili Recorder","url":"https://momo.pseudoyu.com","icon":"video-vintage"}
+        {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"}
       ]
     },
     {
