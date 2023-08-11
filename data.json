@@ -20,12 +20,12 @@
         {"name":"xLog","url":"https://xlog.pseudoyu.com","icon":"post"},
         {"name":"xSync","url":"https://xsync.app/platforms","icon":"cloud-sync-outline"},
         {"name":"xChar","url":"https://xchar.app/pseudoyu","icon":"account-details-outline"},
-        {"name":"xFeed","url":"https://crossbell.io/feed","icon":"comment-quote-outline"},
+        {"name":"xFeed","url":"https://xfeed.app/u/pseudoyu","icon":"comment-quote-outline"},
         {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
         {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
         {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"},
         {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
-        {"name":"Google Search Console","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
+        {"name":"Search Stats","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
         {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
       ]
     },
