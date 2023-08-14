@@ -33,7 +33,6 @@
       "name": "Proxy And Monitor",
       "items": [
         {"name":"Services Uptime","url":"https://uptime.pseudoyu.com/status/services","icon":"robot-dead-outline"},
-        {"name":"Server Status","url":"https://server.pseudoyu.com","icon":"server-network"},
         {"name":"Nginx Proxy Manager","url":"https://npm.pseudoyu.com/nginx/proxy","icon":"arrow-decision-outline"},
         {"name":"Frp Dashboard","url":"https://frps.pseudoyu.com","icon":"lan"}
       ]
