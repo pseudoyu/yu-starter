@@ -22,11 +22,8 @@
         {"name":"xChar","url":"https://xchar.app/pseudoyu","icon":"account-details-outline"},
         {"name":"xFeed","url":"https://xfeed.app/u/pseudoyu","icon":"comment-quote-outline"},
         {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
-        {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
-        {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"},
         {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
-        {"name":"Search Stats","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
-        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
+        {"name":"Search Stats","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"}
       ]
     },
     {
@@ -41,7 +38,6 @@
       "name": "VPS",
       "items": [
         {"name":"BandwagonHost","url":"https://bandwagonhost.com/services","icon":"server"},
-        {"name":"SpartanHost","url":"https://billing.spartanhost.net/clientarea.php","icon":"server-security"},
         {"name":"V.PS","url":"https://vps.hosting/clientarea/","icon":"server-network"}
 
       ]
@@ -56,10 +52,6 @@
           "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2"
         },
         {
-          "name": "Railway",
-          "url": "https://railway.app/account/usage"
-        },
-        {
           "name": "Supabase",
           "url": "https://app.supabase.com"
         },
@@ -70,10 +62,6 @@
         {
           "name": "Netlify",
           "url": "https://app.netlify.com/teams/pseudoyu/overview"
-        },
-        {
-          "name": "Postmark",
-          "url": "https://postmarkapp.com"
         }
       ]
     },
@@ -125,14 +113,6 @@
         {
           "name": "Excalidraw",
           "url": "https://excalidraw.com"
-        },
-        {
-          "name": "TinyWow",
-          "url": "https://tinywow.com"
-        },
-                {
-          "name": "ToolBox",
-          "url": "https://tool.lu/c/developer"
         },
         {
           "name": "Composerize",
