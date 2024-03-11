@@ -6,7 +6,6 @@
         {"name":"Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
         {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
         {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
-        {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
         {"name":"matomo","url":"https://matomo.pseudoyu.com","icon":"google-analytics"},
@@ -17,10 +16,6 @@
     {
       "name": "Third Party",
       "items": [
-        {"name":"xLog","url":"https://xlog.pseudoyu.com","icon":"post"},
-        {"name":"xSync","url":"https://xsync.app/platforms","icon":"cloud-sync-outline"},
-        {"name":"xChar","url":"https://xchar.app/pseudoyu","icon":"account-details-outline"},
-        {"name":"xFeed","url":"https://xfeed.app/u/pseudoyu","icon":"comment-quote-outline"},
         {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
         {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
         {"name":"Search Stats","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"}
@@ -79,10 +74,6 @@
         {
           "name": "YouTube",
           "url": "https://www.youtube.com"
-        },
-        {
-          "name": "Netflix",
-          "url": "https://www.netflix.com/"
         },
         {
           "name": "Mastodon",
