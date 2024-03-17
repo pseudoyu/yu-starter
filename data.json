@@ -3,7 +3,6 @@
     {
       "name": "Self Hosted",
       "items": [
-        {"name":"Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
         {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
         {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
         {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
@@ -83,10 +82,6 @@
         {
           "name": "ChatGPT",
           "url": "https://chat.openai.com/chat"
-        },
-        {
-          "name": "Crossbell",
-          "url": "https://crossbell.io/"
         }
       ]
     },
