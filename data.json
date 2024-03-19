@@ -6,10 +6,11 @@
         {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
         {"name":"Goatcounter","url":"https://stats.pseudoyu.com","icon":"chart-areaspline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
-        {"name":"matomo","url":"https://matomo.pseudoyu.com","icon":"google-analytics"},
+        {"name":"Matomo","url":"https://matomo.pseudoyu.com","icon":"google-analytics"},
         {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
         {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"},
-        {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"}
+        {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
+        {"name":"Image Hosting","url":"https://image.pseudoyu.com","icon":"camera-image"}
       ]
     },
     {
