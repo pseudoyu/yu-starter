@@ -5,7 +5,7 @@
       "items": [
         {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
         {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
-        {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
+        {"name":"Goatcounter","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
         {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
         {"name":"matomo","url":"https://matomo.pseudoyu.com","icon":"google-analytics"},
         {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
@@ -52,10 +52,6 @@
         {
           "name": "Vercel",
           "url": "https://vercel.com/dashboard"
-        },
-        {
-          "name": "Netlify",
-          "url": "https://app.netlify.com/teams/pseudoyu/overview"
         }
       ]
     },
@@ -91,10 +87,6 @@
         {
           "name": "Excalidraw",
           "url": "https://excalidraw.com"
-        },
-        {
-          "name": "Composerize",
-          "url": "https://www.composerize.com/"
         }
       ]
     }
